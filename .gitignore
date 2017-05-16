@@ -1,0 +1,8 @@
+.idea/
+*.log
+*.log.*
+.DS_STORE
+app/.DS_STOREex
+*.py[cod]
+*.swp
+*.out
